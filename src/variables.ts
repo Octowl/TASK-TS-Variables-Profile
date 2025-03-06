@@ -10,7 +10,7 @@
  */
 
 let fullName: string = "Abdulaziz Alsaffar";
-let yearOfBirth: number;
+let yearOfBirth: number = 1987;
 let hobby: string;
 let funFact: string;
 let image: string;
